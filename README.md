@@ -1,6 +1,8 @@
 # data.source.in.th
 
-Putting some public dataset on Google BigQuery. [Explore the project in BigQuery Studio.](https://console.cloud.google.com/bigquery?project=sourceinth)
+**Public datasets in Thailand, ready to query on Google BigQuery.** This project aims to make Thai data accessible for anyone learning databases, SQL, or data science. The [BigQuery Sandbox](https://docs.cloud.google.com/bigquery/docs/sandbox) lets anyone query up to 1 TB per month for free with just a Google account, no installation or configuration needed.
+
+[👉 Explore the project in BigQuery Studio](https://console.cloud.google.com/bigquery?project=sourceinth)
 
 ## WeVis
 
@@ -26,3 +28,7 @@ Data from [thailand-geography-data](https://github.com/thailand-geography-data/t
 | Dataset | Description |
 | --- | --- |
 | [`thailand_geography`](https://console.cloud.google.com/bigquery?project=sourceinth&ws=!1m4!1m3!3m2!1ssourceinth!2sthailand_geography) | Contains province, district, subdistrict names in Thai and English, as well as corresponding postal code in each subdistrict. |
+
+## Contributing
+
+Have a dataset suggestion? [Open an issue on GitHub](https://github.com/dtinth/data.source.in.th/issues) with the dataset details and source.
