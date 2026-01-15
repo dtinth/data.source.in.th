@@ -2,6 +2,14 @@
 
 Putting some public dataset on Google BigQuery. [Explore the project in BigQuery Studio.](https://console.cloud.google.com/bigquery?project=sourceinth)
 
+## WeVis
+
+Data published by [WeVis](https://wevis.info/) projects.
+
+| Dataset | Description |
+| --- | --- |
+| [`wevis_thbudget69_20250525`](https://console.cloud.google.com/bigquery?project=sourceinth&ws=!1m4!1m3!3m2!1ssourceinth!2swevis_thbudget69_20250525) | Digitized Thailand's 2026 budget data from [thbudget69](https://wevis.info/thbudget69/). |
+
 ## ParliamentHack
 
 Data published by [hack.parliament.go.th](https://hack.parliament.go.th/)
