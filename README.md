@@ -8,7 +8,7 @@ Data published by [WeVis](https://wevis.info/) projects.
 
 | Dataset | Description |
 | --- | --- |
-| [`wevis_thbudget69_20250525`](https://console.cloud.google.com/bigquery?project=sourceinth&ws=!1m4!1m3!3m2!1ssourceinth!2swevis_thbudget69_20250525) | Digitized Thailand's 2026 budget data from [thbudget69](https://wevis.info/thbudget69/). |
+| [`wevis_thbudget69_20250525`](https://console.cloud.google.com/bigquery?project=sourceinth&ws=!1m4!1m3!3m2!1ssourceinth!2swevis_thbudget69_20250525) | Digitized Thailand's 2026 budget data (snapshot 2025-05-25) from [thbudget69](https://wevis.info/thbudget69/). |
 
 ## ParliamentHack
 
